@@ -1,0 +1,5 @@
+action (GetSearchTerms) {
+  type (Search)
+  description (__DESCRIPTION__)
+  output (SearchTermStructure)
+}
