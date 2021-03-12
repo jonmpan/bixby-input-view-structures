@@ -1,5 +1,5 @@
 vocab(SearchTerm){
-  "Cat" {"Cat" "cat", "cats"}
+  "Cat" {"Cat" "cat", "cats", "kitten", "kittens"}
   "Dog" {"Dog" "dog", "dogs"}
   "Other" {"Other" "other", "others, "lizard", lizards"}
 }
