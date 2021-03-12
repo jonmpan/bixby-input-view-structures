@@ -5,6 +5,7 @@ endpoints {
       local-endpoint (GetContent.js)
     }
     action-endpoint (GetSearchTerms) {
+      accepted-inputs (searchTerm, nonSearchTerm)
       local-endpoint (GetSearchTerms.js)
     }
   }

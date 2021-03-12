@@ -14,6 +14,10 @@ Open the simulator and run `start`:
 
 ## Tutorial Video
 
+Part 1 - UI Enhancement with Structures
+[![Watch the video](http://i3.ytimg.com/vi/uYH-ncBNQVg/maxresdefault.jpg)](https://youtu.be/uYH-ncBNQVg)
+
+Part 2 - UX Improvement with Bad Inputs
 [![Watch the video](http://i3.ytimg.com/vi/uYH-ncBNQVg/maxresdefault.jpg)](https://youtu.be/uYH-ncBNQVg)
 
 ---
